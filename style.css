@@ -2,5 +2,11 @@ p {
  color: green;
 }
 p2 {
-  color: red; font size: 50; centered;
+  color: red;
+}
+p2 {
+  font size: 50;
+}
+p2 {
+  centered;
 }
